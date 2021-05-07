@@ -1,18 +1,13 @@
-var TITLE = 'Air Transport, Passengers Carried (1970–2018)';
+var TITLE = 'Retractions in life sciences journals (1990–2020)';
 
 // Caption underneath the chart
-var CAPTION = 'Source: The World Bank';
-
-// Add download link to the caption
-CAPTION += '<br><a href="https://github.com/HandsOnDataViz/highcharts-line-annotated" style="color:blue">View data and code</a>, \
-created by <a href="https://handsondataviz.org/" style="color: blue">HandsOnDataViz</a> \
-with <a href="https://www.highcharts.com/" style="color: blue">Highcharts</a>';
+var CAPTION = 'Source: Web of Science (04 May 2021)';
 
 // x-axis label and label in tooltip
 var X_AXIS = 'Year';
 
 // y-axis label and label in tooltip
-var Y_AXIS = 'Passengers';
+var Y_AXIS = 'Normalised retractions';
 
 // Should y-axis start from 0? `true` or `false`
 var BEGIN_AT_ZERO = true;
