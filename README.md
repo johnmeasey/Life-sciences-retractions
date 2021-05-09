@@ -2,11 +2,11 @@
 ### With thanks and acknowledgements to Jack Dougherty and Ilya Ilyankou [Hands-On Data Visualization](https://handsondataviz.org).
 
 
-Data from Web of Science, www.webofknowledge.com, 04 May 2021
+Data from Web of Science, http://retractiondatabase.org/, 09 May 2021
 
-Retractions (SU=life* AND DOCUMENT TYPES: (Retracted Publication OR Retraction) 
+Retractions ((BLS) Basic Life Sciences OR (ENV) Environment) Original Papers and Retraction or Other Notices 
 
-Total publications (SU=life* AND PY=YEAR)
+Total publications come from SCOPUS (SU=life* AND PY=YEAR)
 
-Normalise retractions per year =(10000/Total Pubs)*Retracted pubs
+Normalise retractions per year =(100 000/Total Pubs)*Retracted pubs
 
