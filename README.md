@@ -11,4 +11,4 @@ Total publications come from SCOPUS (SU=life* AND PY=YEAR)
 
 Normalise retractions per year =(10 000/Total Pubs)*Retracted pubs
 
-View the chart here: 
+View the chart here: https://johnmeasey.github.io/Life-sciences-retractions/index.html
