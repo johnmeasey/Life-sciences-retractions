@@ -1,13 +1,13 @@
 var TITLE = 'Retractions in life sciences journals (1990–2020)';
 
 // Caption underneath the chart
-var CAPTION = 'Source: https://retractionwatch.com/ (09 May 2021)';
+var CAPTION = 'Source: https://retractionwatch.com/ (29 May 2021)';
 
 // x-axis label and label in tooltip
 var X_AXIS = 'Year';
 
 // y-axis label and label in tooltip
-var Y_AXIS = 'Retractions per 100 000 publications';
+var Y_AXIS = 'Retractions per 10 000 publications';
 
 // Should y-axis start from 0? `true` or `false`
 var BEGIN_AT_ZERO = true;
