@@ -1,14 +1,12 @@
 # Annotated Line Chart with Highcharts
 ### With thanks and acknowledgements to Jack Dougherty and Ilya Ilyankou [Hands-On Data Visualization](https://handsondataviz.org).
 
+Retraction data from http://retractiondatabase.org/
+Subjects: (BLS) Basic Life Sciences OR (ENV) Environment
+From: 1st January each year To: 31 December each year
+Add search for papers retracted
 
-Data from Web of Science, http://retractiondatabase.org/, 09 May 2021. With thanks to Adam Marcus & Ivan Oransky for creating and maintaining the database.
 
-Retractions ((BLS) Basic Life Sciences OR (ENV) Environment) Original Papers and Retraction or Other Notices. 
-
-Searches in SCOPUS and WoS come up with a fraction of those kept in the Retractions Watch database.
-Total publications come from SCOPUS (SU=life* AND PY=YEAR)
-
-Normalise retractions per year =(10 000/Total Pubs)*Retracted pubs
-
-View the chart here: https://johnmeasey.github.io/Life-sciences-retractions/index.html
+Publication data from Scopus
+Advanced search
+SUBJAREA ( agri  OR  bioc  OR  immu  OR  neur  OR  phar )  AND  PUBYEAR  =  2021 
