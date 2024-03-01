@@ -1,7 +1,7 @@
-var TITLE = 'Retractions in life sciences journals (1990–2022)';
+var TITLE = 'Retractions in life sciences journals (1990–2023)';
 
 // Caption underneath the chart
-var CAPTION = 'Source: https://retractionwatch.com/ (18 May 2023)';
+var CAPTION = 'Source: https://retractionwatch.com/ (1 March 2024)';
 
 // x-axis label and label in tooltip
 var X_AXIS = 'Year';
